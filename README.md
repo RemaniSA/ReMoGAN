@@ -15,7 +15,7 @@
 
 ### License
 
-This repository is an evolving research workspace. Unless otherwise specified, original code written by the author is licensed under the [MIT License](./LICENSE).
+This repository is an evolving research workspace. Unless otherwise specified, original code written by the author is licensed under the MIT License.
 
 **Note:** Portions of the codebase may include or adapt third-party software (e.g., under Apache 2.0, BSD 3-Clause, etc.). Where applicable, such components will retain their original licenses and be clearly marked.
 
