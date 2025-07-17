@@ -1,3 +1,7 @@
+# Directories to ignore
+data/
+fractional_series/
+
 # MacOS System Files
 .DS_Store
 
